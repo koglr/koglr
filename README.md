@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koglr
 - 👀 Hybrid work, people-centric processes.
-- 🌱 GraphDBs, Jetbrains Compose
+- 🌱 Research Topic: GraphDBs and Domain Driven Design
 - 📫 https://www.linkedin.com/in/koglr/
 
 <!---
