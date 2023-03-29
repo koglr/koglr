@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koglr
-- 👀 Hybrid work, people-centric processes.
+- 👀 Hybrid work, people-centric processes, AI (who is not these days 😜)
 - 🌱 Research Topic: GraphDBs and Domain Driven Design
 - 📫 https://www.linkedin.com/in/koglr/
 
